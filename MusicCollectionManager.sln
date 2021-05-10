@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagLibWrapper", "TagLibWrapper\TagLibWrapper.csproj", "{701F5CAF-CA0D-412D-B9BB-BADC25122FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicLibrariesManager", "MusicLibrariesManager\MusicLibrariesManager.csproj", "{C148A347-28E3-43B5-B1C7-D6FDF94BF012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setup32", "Setup32\Setup32.csproj", "{C7CCCBCF-F265-4B55-921A-26C11ABB4835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701F5CAF-CA0D-412D-B9BB-BADC25122FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701F5CAF-CA0D-412D-B9BB-BADC25122FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701F5CAF-CA0D-412D-B9BB-BADC25122FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701F5CAF-CA0D-412D-B9BB-BADC25122FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C148A347-28E3-43B5-B1C7-D6FDF94BF012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C148A347-28E3-43B5-B1C7-D6FDF94BF012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C148A347-28E3-43B5-B1C7-D6FDF94BF012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C148A347-28E3-43B5-B1C7-D6FDF94BF012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7CCCBCF-F265-4B55-921A-26C11ABB4835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CCCBCF-F265-4B55-921A-26C11ABB4835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CCCBCF-F265-4B55-921A-26C11ABB4835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CCCBCF-F265-4B55-921A-26C11ABB4835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
